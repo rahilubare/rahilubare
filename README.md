@@ -1,146 +1,26 @@
-# 👋 Hi, I’m Rahil Ubare
+<h1 align="center">Hi 👋, I'm Rahil Ubare</h1>
+<h3 align="center">DevOps-focused builder who turns messy, manual processes into clean, automated systems. I work at the intersection of infrastructure, automation, and product-minded engineering, with a strong bias toward shipping practical solutions that actually get used.</h3>
 
-DevOps-focused builder who turns **messy, manual processes into clean, automated systems**. I work at the intersection of **infrastructure, automation, and product-minded engineering**, with a strong bias toward shipping practical solutions that actually get used.
+- 🔭 I’m currently working on **DevOps Automation & Internal Tooling**
 
----
+- 🌱 I’m currently learning **Kubernetes, Advanced DevOps, Monitoring & System Design**
 
-## 🚀 About Me
+- 👯 I’m looking to collaborate on **Open-Source DevOps & B2B SaaS Projects**
 
-* 🧠 Automation-first mindset with hands-on DevOps execution
-* 🛠️ Comfortable moving from infra → automation → product
-* 📈 Proven record of **15–35% efficiency gains** through automation
+- 🤝 I’m looking for help with **Scaling SaaS & Production DevOps Patterns**
 
-I enjoy breaking systems to understand their limits—and then rebuilding them better.
+- 👨‍💻 All of my projects are available at [https://github.com/rahilubare](https://github.com/rahilubare)
 
----
+- 💬 Ask me about **Linux, Docker / Podman, CI/CD, DevOps automation, n8n workflows, self-hosting tools, building MVPs fast**
 
-## 🔭 Currently Working On
+- 📫 How to reach me **rahilubare7@gmail.com**
 
-* DevOps automation projects & internal tooling
-* Workflow orchestration using **n8n** and AI-assisted automation
-* Building **B2B SaaS MVPs** focused on real operational pain points
-* Monitoring & observability stacks using **Prometheus + Grafana**
+- ⚡ Fun fact **I enjoy breaking systems just to understand how to build them better 😄**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rahil ubare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahil ubare" height="30" width="40" /></a>
+</p>
 
-## 🌱 Currently Learning
-
-* Advanced **DevOps patterns** for production systems
-* **Kubernetes** (deployment, scaling, reliability)
-* Monitoring & alerting best practices
-* System design for **scalable SaaS architectures**
-
----
-
-## 👯 Looking to Collaborate On
-
-* Open-source **DevOps & automation tools**
-* **B2B SaaS** products solving real business problems
-* Monitoring / observability platforms
-* Automation-heavy systems that replace manual workflows
-
----
-
-## 🤝 Looking for Help With
-
-* Scaling SaaS systems in production
-* Real-world DevOps architectures (battle-tested patterns)
-* Learning from builders who’ve **shipped and scaled** products
-
----
-
-## 🧰 Tech Stack
-
-**Programming & Scripting**
-Python, Bash
-
-**Containers & Orchestration**
-Docker, Podman, Kubernetes
-
-**Automation**
-n8n, Zapier, AI-assisted & agentic workflows
-
-**Databases**
-SQL Server, MySQL, SSMS
-
-**Monitoring & Observability**
-Prometheus, Grafana
-
-**Cloud & Infra**
-AWS, Linux (Ubuntu), Windows
-
-**Security & Networking**
-XTS-AES encryption, endpoint hardening, DNS configuration, IT audits
-
----
-
-## 🏗️ Notable Work & Projects
-
-### 🧩 Internal Automation & Infra (Enix Softwares)
-
-* Automated SQL Server backup, restore & disaster recovery
-* Built automation scripts saving **2+ hours/day**
-* Integrated workflows with databases for cleansing & reporting (**33% faster processing**)
-* Deployed **Prometheus + Grafana** for real-time monitoring
-* Implemented **full-disk encryption** across office endpoints
-
-### 🖥️ File Resizer Pro
-
-Internal React.js utility for:
-
-* PDF resizing & compression
-* Image compression
-* Built rapidly using **AI-assisted (Vibe) development**
-
-### 📦 Inventory Tracking App (No-Code / AI-Prompted)
-
-* Real-time stock monitoring
-* Alerts & usage reports
-* Built using zero-code tools + AI prompting
-
-### 🧠 Habit Tracking App (No-Code / AI-Prompted)
-
-* User-centric habit tracking
-* Optimized prompts for reliability & responsiveness
-
-### 🤖 DevPal — AI Chat Assistant
-
-* Full-stack AI chatbot (FastAPI + React)
-* Integrated **Ollama (LLaMA2)**
-* Real-time messaging, retries, and responsive UI animations
-
----
-
-## 🏆 Achievements
-
-* Built & deployed a **DNS server on Ubuntu** (25% faster response time)
-* Automated MySQL workflows (**35% reduction in manual work**)
-* Implemented **TrueNAS-based NAS** for secure centralized storage
-
----
-
-## 💬 Ask Me About
-
-* Linux & self-hosting tools
-* Docker / Podman & CI/CD pipelines
-* DevOps automation & workflow orchestration
-* Monitoring, alerting, and infra reliability
-* Building MVPs fast using automation + AI
-
----
-
-## ⚡ Fun Fact
-
-I enjoy breaking systems just to understand how to build them better.
-
----
-
-## 📫 Connect With Me
-
-* 📧 Email: [rahilubare7@gmail.com](mailto:rahilubare7@gmail.com)
-* 🐙 GitHub: [https://github.com/rahilubare](https://github.com/rahilubare)
-
-
----
-
-> *Automation is not about replacing people — it’s about removing friction so people can do higher‑value work.*
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
