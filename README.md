@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rahil Ubare
 
-> **AI Engineer | Automation Engineer | Full Stack Developer**
+> **AI Solutions Engineer | Automation Engineer | AI Developer**
 
 > Building AI-powered products, automation platforms and developer tools.
 
@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-Automation Engineer at **Enix Softwares** with experience improving operational efficiency through SQL, automation, Python, React and AI-assisted development. Experienced building internal tools, automation workflows and AI applications. Based on CV. 
+Automation Engineer at **Enix Softwares** with experience improving operational efficiency through SQL, automation, Python, React and AI-assisted development. Experienced building internal tools, automation workflows and AI applications.
 
 ## 🌐 Connect
 
