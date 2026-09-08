@@ -193,14 +193,6 @@ I'm particularly interested in building AI systems that can interact with **data
 
 ---
 
-## 📊 GitHub Activity
-
-![Rahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahilubare\&show_icons=true\&hide_border=true\&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahilubare\&layout=compact\&hide_border=true)
-
----
-
 ## 🎯 Career Direction
 
 I'm working toward becoming an **AI Engineer focused on production-oriented AI systems**.
