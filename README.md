@@ -4,7 +4,7 @@
 
 I build practical software at the intersection of **AI, automation, infrastructure, and developer tooling**.
 
-Currently working as an **Automation Engineer at Enix Softwares**, where I build automation systems, optimize databases and infrastructure, develop internal productivity tools, and explore practical applications of local AI and agentic workflows.
+Currently working as an **IT Automation Engineer at Enix Softwares**, where I build automation systems, optimize databases and infrastructure, develop internal productivity tools, and explore practical applications of local AI and agentic workflows.
 
 I enjoy taking repetitive or inefficient processes and turning them into **reliable, measurable, automated systems**.
 
