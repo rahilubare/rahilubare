@@ -1,228 +1,81 @@
-# 👋 Hi, I'm Rahil Ubare
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm RAHIL UBARE</h1>
 
-### IT Automation Engineer → AI Engineer
 
-I build practical software at the intersection of **AI, automation, infrastructure, and developer tooling**.
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
-Currently working as an **IT Automation Engineer at Enix Softwares**, where I build automation systems, optimize databases and infrastructure, develop internal productivity tools, and explore practical applications of local AI and agentic workflows.
+## 📌 About Me
+- 💡 AI Applied Engineer with nearly 2 years of experience across software development, DevOps, and process automation. Skilled in Python, FastAPI, React, SQL Server, Docker, and CI/CD pipelines, with hands-on experience building internal tools, automation workflows, and monitoring systems. Delivered measurable efficiency gains of 15 to 35 percent through scripting, workflow automation, and infrastructure optimization. Comfortable working across the stack, from frontend and backend services and databases to deployment and observability, with a strong interest in AI-assisted development and agentic
 
-I enjoy taking repetitive or inefficient processes and turning them into **reliable, measurable, automated systems**.
 
----
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=rahilubare&theme=github-dark&mode=dark" alt="rahilubare's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=rahilubare&theme=nightowl&hide_border=true&cache_seconds=86400" alt="rahilubare's GitHub Streak" width="49%" />
+</p>
 
-## ⚡ What I Build
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=rahilubare&theme=github-dark&mode=dark" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=rahilubare&theme=github-dark&mode=dark" alt="RAHIL UBARE's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://www.gitskins.com/api/section/heatmap?username=rahilubare&theme=github-dark&mode=dark" alt="rahilubare's Activity Graph" />
+</p>
 
-```text
-AI Systems
-├── Local LLM applications
-├── AI-assisted developer tools
-├── Prompt engineering systems
-├── Agentic workflows
-└── RAG / knowledge systems
 
-Automation
-├── Python automation
-├── Power Automate
-├── n8n workflows
-├── Bash scripting
-└── Process optimization
 
-Infrastructure
-├── Docker
-├── Linux
-├── CI/CD
-├── Monitoring & Observability
-└── Internal infrastructure
 
-Developer Tools
-├── Docker optimization
-├── Productivity tools
-├── Developer utilities
-└── Automation platforms
-```
+## 🛠️ Languages & Tools
 
----
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
 
-## 🚀 Featured Projects
+> ## Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
 
-### 🐳 DockerDiet
+> ## Backend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
 
-**Dockerfile Analyzer & Image Size Optimizer**
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
 
-A static Dockerfile analysis engine that detects Docker anti-patterns and generates optimized Dockerfiles.
+> ## DevOps & Cloud
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" style="margin: 4px;" /></p>
 
-**Highlights**
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
 
-* Reduced Docker image sizes by up to **71%**
-* Layer-by-layer optimization analysis
-* Anti-pattern detection
-* Automatically generates optimized Dockerfiles
-* Runs entirely in the browser
-* No Docker daemon required
-* CI/CD deployment
 
-**Stack:** `React` `Python` `Docker` `Vercel` `CI/CD`
+## 🔗 Connect with Me
+<p align="center"><a href="https://linkedin.com/in/rahilubare" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:you@example.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
-🔗 **Live:** https://docker-diet.vercel.app
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/heatmap?username=rahilubare&theme=github-dark&mode=dark&style=snake" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=rahilubare&theme=github-dark&mode=dark&style=snake" />
+  <img alt="github-snake" src="https://www.gitskins.com/api/section/heatmap?username=rahilubare&theme=github-dark&mode=dark&style=snake" />
+</picture>
 
----
 
-### 🧠 BitPrompt
 
-**AI Prompt Optimization & Analysis Platform**
+<div align="center">
+  <!---->
+</div>
 
-A full-stack tool for analyzing and improving prompts before sending them to an LLM.
+<p align="center"><sub>RAHIL UBARE · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
 
-**Features**
+## Experience
 
-* Prompt structure analysis
-* Context injection
-* Instruction clarity scoring
-* Output format control
-* Token analysis
-* Prompt optimization
-* Production CI/CD
+**Enix Softwares — Applied AI Engineer** · 12/2024 – Present
+- Cut manual reporting time by 33 percent by engineering SQL-integrated Power Automate workflows that fully automated recurring data reporting cycles.
+- Reduced network response time by 25 percent by architecting and deploying a DNS server on Ubuntu, improving internal name resolution reliability organization-wide.
+- Boosted day-to-day operational productivity by up to 20 percent by designing Python and Bash automation scripts that eliminated repetitive manual processes.
 
-**Stack:** `React` `FastAPI` `Python` `tiktoken` `Vercel`
+**Education**
 
-🔗 **Live:** https://bitprompt.vercel.app
+- Bachelor of Science in Information Technology — College of Computer Science and Information Technology, Hirwal Education Trust (2020 – 2023)
 
----
+**Projects**
 
-### 🤖 Local AI Systems
-
-I experiment with **local LLM infrastructure** to build AI systems without depending entirely on external model APIs.
-
-Current areas of exploration:
-
-* Ollama
-* Local LLM inference
-* Qwen
-* Open WebUI
-* RAG
-* AI agents
-* Internal AI assistants
-* AI-powered developer workflows
-
-My goal is to build AI systems that are **useful, deployable, and connected to real-world data**.
-
----
-
-## 💼 Professional Experience
-
-### IT Automation Engineer — Enix Softwares
-
-Building automation and infrastructure solutions across production environments.
-
-Some of my work includes:
-
-* Optimizing SQL Server databases supporting ERP applications
-* Building internal productivity tools with React
-* Developing Python and Bash automation
-* Automating reporting workflows with Power Automate
-* Building monitoring systems using Grafana and Prometheus
-* Evaluating and implementing AI-assisted automation workflows
-* Working with Docker and containerized applications
-* Implementing infrastructure and security improvements
-* Deploying Linux-based internal infrastructure
-
-**Impact**
-
-> 📈 Up to **35% operational efficiency improvement** across selected automation initiatives.
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Development
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square\&logo=gnubash\&logoColor=white)
-
-### AI / LLM
-
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
-![LLM](https://img.shields.io/badge/Local%20LLMs-412991?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-7B61FF?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square)
-
-### Automation
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square\&logo=n8n\&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square\&logo=microsoftpowerautomate\&logoColor=white)
-
-### Infrastructure
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square)
-
-### Observability
-
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square\&logo=grafana\&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square\&logo=prometheus\&logoColor=white)
-
-### Databases
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square\&logo=microsoftsqlserver\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-
----
-
-## 🧩 Currently Exploring
-
-```text
-Local AI Infrastructure
-        ↓
-LLM Applications
-        ↓
-RAG Systems
-        ↓
-AI Agents
-        ↓
-Tool Calling / MCP
-        ↓
-Enterprise AI Automation
-```
-
-I'm particularly interested in building AI systems that can interact with **databases, APIs, enterprise software, infrastructure, and real-world operational workflows**.
-
----
-
-## 🎯 Career Direction
-
-I'm working toward becoming an **AI Engineer focused on production-oriented AI systems**.
-
-Areas I'm actively developing:
-
-* AI Engineering
-* Agentic AI
-* Local LLM infrastructure
-* RAG
-* MCP / tool-based AI systems
-* Backend engineering
-* Automation
-* Cloud & deployment
-* Observability
-* Enterprise AI
-
----
-
-## 📫 Connect With Me
-
-**LinkedIn:**
-https://linkedin.com/in/rahilubare
-
-**GitHub:**
-https://github.com/rahilubare
-
-**Email:**
-[ubarerahil8@gmail.com](mailto:ubarerahil8@gmail.com)
-
----
-
-> **Build useful things. Automate the boring things. Make systems better.**
+- **DockerDiet - Dockerfile Analyzer and Size Optimizer** — Built a static Dockerfile analysis engine that detects anti-patterns and auto-generates optimized Dockerfiles, reducing image sizes by up to 71 percent through layer-by-layer optimization. Deployed on Vercel with continu
+- **BitPrompt - AI Prompt Optimizer** — Built and deployed a full-stack prompt optimization tool that refines user prompts for improved large language model output quality. Applied prompt engineering techniques, including context injection, instruction clarity
