@@ -16,9 +16,7 @@
 <p align="center">
   <img src="https://www.gitskins.com/api/section/stack?username=rahilubare&theme=github-dark&mode=dark" alt="Top Languages" />
 </p>
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=rahilubare&theme=github-dark&mode=dark" alt="RAHIL UBARE's GitHub Trophies" />
-</p>
+
 <p align="center">
   <img height="280em" src="https://www.gitskins.com/api/section/heatmap?username=rahilubare&theme=github-dark&mode=dark" alt="rahilubare's Activity Graph" />
 </p>
